@@ -1,0 +1,68 @@
+.navbar{background-color: black; 
+    
+    color:white;
+
+}
+
+.container{
+    font-size: bold;
+    width: 100%;
+    height: 20%;
+
+}
+.navbar-header{
+    margin-left: 8%;
+    float: left;
+    color: white;
+
+}
+.navbar-footer{
+    background-color: azure;
+    color: black;
+}
+.hw{
+     float:right;
+    margin-right: 8%;
+}
+
+
+.footer{
+    background-color: black;
+    color:white;
+    margin-top:5%;
+    width: 100%;
+}
+.panel{
+    height:50%;
+  margin-left: 35%;
+    margin-right: 35%;
+    
+    
+}
+
+.panel{ 
+    margin-left: 35%;
+    margin-right: 35%;
+
+    padding-bottom: 10px;
+}
+.as{ background-color:dodgerblue;
+    color: white;
+}
+.form-head{
+    color: rgb(255,255,255,0.3);
+    background-color: aqua;
+}
+.input{
+ height: 10%;
+    width:100%
+}
+.content{
+    width: 100%;
+}
+.footer{
+    min-height: 30px;
+    padding-top: 1%;
+    margin-top: 10%;
+    padding-bottom: 1%;
+}
